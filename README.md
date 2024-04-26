@@ -1,0 +1,2 @@
+# Fano-calculator
+say "boom"
